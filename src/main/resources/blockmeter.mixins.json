@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "win.baruna.blockmeter.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": [
+    "WorldRendererMixin",
+    "GameMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

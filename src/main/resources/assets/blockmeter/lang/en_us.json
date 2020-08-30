@@ -1,0 +1,6 @@
+{
+  "blockmeter.keepcolor": "Always Use Current Color: %s",
+  "blockmeter.diagonal": "Show Inner Diagonal Line: %s",
+  "blockmeter.toggle.on": "%s is now used as your block meter!",
+  "blockmeter.toggle.off": "Block meter is now turned off!"
+}
